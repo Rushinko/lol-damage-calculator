@@ -1,0 +1,16 @@
+.ChampionList-item {
+  display: flex;
+  max-width: 60px;
+  margin: 4px;
+}
+
+.ChampionList {
+  max-width: 90%;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+
+}
